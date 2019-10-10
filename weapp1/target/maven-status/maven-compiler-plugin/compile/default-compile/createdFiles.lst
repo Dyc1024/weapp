@@ -1,0 +1,14 @@
+test\entity\User.class
+test\dao\ConplidateDao.class
+test\entity\Work.class
+test\controller\UserController.class
+test\dao\OrdersDao.class
+test\controller\OrdersController.class
+test\controller\ConplidateController.class
+test\dao\UserDao.class
+test\controller\WorkController.class
+test\entity\Conplidate.class
+test\entity\Orders.class
+test\controller\Testcontroller.class
+test\dao\WorkDao.class
+test\Application.class
